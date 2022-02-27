@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Queenes proceedings in Holland. Being the copie of a letter sent from the staple at Middleborough to Mr. Vanrode a Dutch marchant in London. Wherein is contained these sixe particulars following: First, the King of Denmarke his ambassadour comming to the Queenes Court at the Hague with a Message to the states of Holland, accompanied with the Prince of Orange. 2. Colonell Goring his raising of forces in Ortoys by commission from the K. of France, with a challenge from Colonell Gage unto Goring for his so doing. 3. What summes of money have been raised by priests, and jesuites, &amp;c. throughout the cloisters in those provinces, with their severall names, &amp;c. 4. What summes already have bin raised towards the maintenance of the Rebellion in Ireland, as also an Irish ambassador at Bruzels for a second supply. 5. The Bishop of Cullen his death. 6. The Prince of Orange his court at Breda.</title>
+            <author>Keeling, Josias.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87650</idno>
+            <idno type="STC">Wing K124</idno>
+            <idno type="STC">Thomason E83_33</idno>
+            <idno type="STC">ESTC R9232</idno>
+            <idno type="EEBO-CITATION">99873505</idno>
+            <idno type="PROQUEST">99873505</idno>
+            <idno type="VID">125982</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87650)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125982)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Queenes proceedings in Holland. Being the copie of a letter sent from the staple at Middleborough to Mr. Vanrode a Dutch marchant in London. Wherein is contained these sixe particulars following: First, the King of Denmarke his ambassadour comming to the Queenes Court at the Hague with a Message to the states of Holland, accompanied with the Prince of Orange. 2. Colonell Goring his raising of forces in Ortoys by commission from the K. of France, with a challenge from Colonell Gage unto Goring for his so doing. 3. What summes of money have been raised by priests, and jesuites, &amp;c. throughout the cloisters in those provinces, with their severall names, &amp;c. 4. What summes already have bin raised towards the maintenance of the Rebellion in Ireland, as also an Irish ambassador at Bruzels for a second supply. 5. The Bishop of Cullen his death. 6. The Prince of Orange his court at Breda.</title>
+                  <author>Keeling, Josias.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 30. Printed by T. F. for I. M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Josias Keeling.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian --  IV, --  King of Denmark and Norway, 1577-1648 --  Early works to 1800.</term>
+               <term>Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669 --  Early works to 1800.</term>
+               <term>Norwich, George Goring, --  Earl of, 1583?-1663 --  Early works to 1800.</term>
+               <term>William --  II, --  Prince of Orange, 1626-1650 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125982:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>THE QUEENES Proceedings in HOLLAND. BEING The Copie of a Letter
+ſent from the Staple at <hi>Middleborough</hi> to Mr. VANRODE a
+<hi>Dutch</hi> Marchant in <hi>London. Wherein is contained theſe
+ſixe Particulars following:</hi> 
+               <list>
+                  <item>Firſt, the King of <hi>Denmarke</hi> his
+Ambaſſadour comming to the Queenes Court at the <hi>Hague</hi> with a
+Meſ<g ref="char:EOLhyphen"/>ſage to the States of <hi>Holland,</hi> accompanied with the Prince of
+<hi>Orange.</hi>
+                  </item>
+                  <item>2. Colonell <hi>Goring</hi> his raiſing of Forces in
+<hi>Ortoys</hi> by Commiſſion from the K. of <hi>France,</hi> with a
+Chal<g ref="char:EOLhyphen"/>lenge from Colonell <hi>Gage</hi> unto <hi>Goring</hi> for his ſo
+doing.</item>
+                  <item>3. What ſummes of Money have been raiſed by
+Prieſts, and Jeſuites, &amp;c. throughout the Cloiſters in thoſe
+Provinces, with their ſeverall names, &amp;c.</item>
+                  <item>4. What ſummes already have bin raiſed to<g ref="char:EOLhyphen"/>wards the
+maintenance of the Rebellion in <hi>Ireland,</hi> as alſo an <hi>Jriſh</hi>
+Ambaſſador at <hi>Bruzels</hi> for a ſecond ſupply.</item>
+                  <item>5. The Biſhop of <hi>Cullen</hi> his Death.</item>
+                  <item>6. The Prince of <hi>Orange</hi> his Court at
+<hi>Breda.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>LONDON. <hi>Decemb</hi> 30. Printed by <hi>T. F.</hi> for <hi>I.
+M.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125982:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb facs="tcp:125982:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>The Copie of a Letter from the Staple at
+<hi>Middleborough</hi> in <hi>Holland,</hi> to Mr. VANRODE a <hi>Dutch</hi>
+Marchant in <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>IR, the ſixty odde pounds of Bever a<g ref="char:EOLhyphen"/>mounting neere up<g ref="char:EOLhyphen"/>on
+400. Rix Dollers J lately ſent you be<g ref="char:EOLhyphen"/>ing intercepted and ſeiz'd on by the
+Kings Fleet, J ſhall be con<g ref="char:EOLhyphen"/>tented to beare an equall ſhare of the charge
+of Cuſtome, or by any other loſſe you ſhall ſuſtaine through the
+default of my Ship-maſter or any of his in this behalfe, more J hope you will
+not deſire conſidering my unwillingnes in ha<g ref="char:EOLhyphen"/>zarding <pb facs="tcp:125982:3"/>
+               <!-- PDF PAGE 33 -->it
+in theſe troubleſome times of dan<g ref="char:EOLhyphen"/>ger, &amp;c. wee might very well have
+ſtayed the tranſportation therof for one Moneth longer, which then might be
+ſafely tranſported and convoyed by five or ſix States men of Warre, which
+are all ready for the bringing over of an Ambaſsador from the King of
+<hi>Denmarke</hi> to the King of <hi>England,</hi> he came to the Queens Court
+at the <hi>Hague</hi> upon the 20. of <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> the Prince of
+<hi>Orange</hi> being at <hi>Breda,</hi> ac<g ref="char:EOLhyphen"/>companied the Ambaſsador all
+through the Countrey, and brought him to the Queenes Court, who was royally
+entertained, and in<g ref="char:EOLhyphen"/>tends forthwith to come for <hi>England,</hi> his
+Embaſsage to his Majeſty is privately con<g ref="char:EOLhyphen"/>cealed, onely this the K. of
+<hi>Denmarke</hi> deſireth the States of <hi>Holland,</hi> that they would
+bee pleaſed to aſſiſt the King with ſuch forces by Sea as ſhall be
+anſwerable to thoſe which he ſhall provide by Land, in warring againſt
+<hi>Tunis, Argier</hi> and other places, concerning a late breach of
+Pacification in detaining our Countrimen ſtill Captives and Slaves, though
+their Ranſomes have bin payd in a very large <pb facs="tcp:125982:3"/>
+               <!-- PDF PAGE 33 -->contribution.
+Colonell <hi>Goring</hi> is travelled in<g ref="char:EOLhyphen"/>to <hi>Ortoys</hi> and
+<hi>Flanders</hi> to raiſe forces of Men and Armour, he having a
+Commiſſion from the King of <hi>France</hi> to take a certaine number from
+each Garriſon, for the <hi>Queene</hi> and pre<g ref="char:EOLhyphen"/>ſent ſupply for
+<hi>England.</hi> Colonell <hi>Gage</hi> who is Colonell over the
+<hi>Engliſh</hi> in <hi>Flanders,</hi> gave Colonell <hi>Goring</hi> a
+Challenge for preſuming to beat up his Drums to flock away his Of<g ref="char:EOLhyphen"/>ficers and
+Souldiers, nevertheleſse the ſoul<g ref="char:EOLhyphen"/>diers being poore and long behind of
+their contribution mony agreed, and five or 600. <hi>Engliſh</hi> followed
+Colonell <hi>Goring</hi> to <hi>Dun<g ref="char:EOLhyphen"/>kirke, Newport, Oſtend,</hi> and
+<hi>Graveling,</hi> where they now remaine, till they be Shipt for
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> there hath bin great meanes to the States that theſe
+Souldiers might bee permitted to paſſe through their Country and ſo take
+ſhip<g ref="char:EOLhyphen"/>ping for <hi>England,</hi> but the Queene nor the Ambaſsador can
+prevaile with the States for their conſents therein. J have alſo here ſet
+you downe the ſummes of money raiſed a<g ref="char:EOLhyphen"/>mongſt the Prieſts, Jeſuites,
+Seminaries, Fri<g ref="char:EOLhyphen"/>ers, Nuns, and holy Siſters through the land, 
+<pb facs="tcp:125982:4"/>
+               <!-- PDF PAGE 34 -->and paid in to the Jeſuites of S<hi rend="sup">t</hi>.
+<hi>Omers</hi> his Colledge towards the maintenance of his Majeſties warres.
+And firſt as in order the <hi>Engliſh</hi> Cloyſter at St.
+<hi>Omers,</hi> the Jeſuits have raiſed 3000. pounds, beſides the Taxes
+they have impoſed upon every Scholler 5. l. a man being about 400. and that
+if any ſhall refuſe the payment thereof to loſe their Degrees in the
+Houſe, and be for ever diſcharged for ha<g ref="char:EOLhyphen"/>ving any future beneſit therein:
+in which Colledge the ſumme collected amounts about 3500. l. Secondly at
+<hi>Ayres,</hi> the ſumme col<g ref="char:EOLhyphen"/>lected amounts unto 500. l. Thirdly, at
+<hi>Beteone,</hi> the ſumme collected amounts unto 500. l. Fourthly at
+<hi>Arras,</hi> the ſome of 2000. l.</p>
+            <p>Fiftly at the Univerſity of <hi>Doway,</hi> 1000. l.</p>
+            <p>Sixtly at <hi>Gaunt,</hi> betweene the Colledge of
+<hi>Engliſh</hi> and <hi>Jriſh</hi> Prieſts, and the Matron of the Nunnes
+there, was Collected 500. l.</p>
+            <p>Seventhly at <hi>Durmount,</hi> 50. l. Eightly at
+<hi>Bruzels,</hi> from the Counteſſe of <hi>Weſtmorland,</hi> and the
+Lady <hi>Babthorpe,</hi> Matrons of the holy Nuns, and the three Cloyſters
+<hi>Engliſh, Jriſh,</hi> and <hi>Walloons,</hi> 3000. l. Ninthly at
+<hi>Lovain,</hi> 1000. l.</p>
+            <pb facs="tcp:125982:4"/>
+            <!-- PDF PAGE 34 -->
+            <p>Tenthly at <hi>Bridges,</hi> 300. l. Eleventhlily at
+<hi>Caſteele,</hi> 200. l. Twelfely at <hi>Newport,</hi> 200. l.</p>
+            <p>Thirteenth at <hi>Oſtend,</hi> 100. l. Fourteenth at
+<hi>Graveling,</hi> 100. l. Fifteenth at <hi>Dunkerke,</hi> 500. l. all which
+ſummes amounteth about 15000. l. have bin Collected and in the hands of
+Fa<g ref="char:EOLhyphen"/>ther <hi>Browne</hi> the Head of St. <hi>Omers</hi> Col<g ref="char:EOLhyphen"/>ledges, beſides
+5000. l. more gathered from the Governours of every Towne, Village, or petty
+Dorpe, which makes the ſumme of 20. thouſand pounds, all which is intended
+to be tranſported to his Majeſty from <hi>Dun<g ref="char:EOLhyphen"/>kirke,</hi> beſides the
+weekely allowance the Colledges will disburſe towards the mainte<g ref="char:EOLhyphen"/>nance of the
+five hundred Souldiers under the command of Colonell <hi>Goring,</hi> during
+his Majeſties warres with the Parliament.</p>
+            <p>The Rebels of <hi>Jreland</hi> have had alſo nere upon ſixty
+thouſand pounds already ſent them, &amp; an <hi>Jriſh</hi> Ambaſſador
+is again ſent to <hi>Bruzels</hi> intreating the ſtate for more monies,
+which as yet we heare nothing of a ſecond ſupply. The great Biſhop of
+<hi>Cullen</hi> is lately dead, which puts the Country in a great diſ<g ref="char:EOLhyphen"/>order, 
+<pb facs="tcp:125982:5"/>
+               <!-- PDF PAGE 35 -->an <hi>Jtalian</hi> is ſince
+Choſen. And thus much as J have ſet downe is the common diſcourſe at
+the Queenes court, and whi<g ref="char:EOLhyphen"/>ther her Majeſty intendeth to goe over with the
+<hi>Denmarke</hi> Embaſsador is not certainly knowne, here is a great
+diſcention betweene the States and the Prince of <hi>Orange,</hi> which makes
+the Prince leave his Court at the <hi>Hague</hi> and continueth at
+<hi>Breda</hi> with One thouſand of horſe and foot, &amp; ſeldome or
+ne<g ref="char:EOLhyphen"/>ver comes to the <hi>Queenes</hi> Court though her Majeſty have often
+ſent for him, J cannot certifie more as this we ſhall remoove our Staple
+from hence to <hi>Delph.</hi>
+            </p>
+            <closer>
+               <dateline>From <hi>Middleborough</hi> the 
+<date>19. of <hi>Decemb.</hi> 1642.</date>
+               </dateline> 
+               <signed>
+                  <hi>Your obliged and truſty friend,</hi> JOSIAS
+KEELING.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
